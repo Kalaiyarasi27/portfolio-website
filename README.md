@@ -225,9 +225,6 @@ Use this template in the projects section:
 - **💼 LinkedIn:** [Kalaiyarasi Nagarajan](https://www.linkedin.com/in/kalaiyarasi-nagarajan-80a37b267/)
 - **💻 GitHub:** [Kalaiyarasi27](https://github.com/Kalaiyarasi27)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
