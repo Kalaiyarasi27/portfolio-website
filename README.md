@@ -8,13 +8,13 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 ## ✨ Features
 
-- ** Fully Responsive** - Optimized for all devices (desktop, tablet, mobile)
-- ** Modern UI/UX** - Clean, professional design with smooth animations
-- ** Fast Performance** - Lightweight and optimized for speed
-- ** Contact Form** - Firebase-powered form with real-time database storage
-- ** Smooth Scrolling** - Seamless navigation between sections
-- ** Professional Design** - Minimalist and visually appealing interface
-- ** Secure** - HTTPS enabled with SSL certificate
+- **Fully Responsive** - Optimized for all devices (desktop, tablet, mobile)
+- **Modern UI/UX** - Clean, professional design with smooth animations
+- **Fast Performance** - Lightweight and optimized for speed
+- **Contact Form** - Firebase-powered form with real-time database storage
+- **Smooth Scrolling** - Seamless navigation between sections
+- **Professional Design** - Minimalist and visually appealing interface
+- **Secure** - HTTPS enabled with SSL certificate
 
 ## 🛠️ Tech Stack
 
