@@ -132,19 +132,20 @@ firebase deploy
 
 
 <div align="center">
+   
 **⭐ Star this repository if you find it helpful!**
 
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-kalaiyarasi--portfolio.netlify.app-blue)](https://kalaiyarasi-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/📧_Email-kalaiyarasi385@gmail.com-red)](mailto:kalaiyarasi385@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue)](https://www.linkedin.com/in/kalaiyarasi-nagarajan-80a37b267/)
-### **Built with ❤️ by Kalaiyarasi N**
+
 
 
 </div>
 
 
 
-
+### **Built with ❤️ by Kalaiyarasi N**
 
 > Dreamt, Designed, and Developed to revolutionize vehicle monitoring through real-time data visualization, empowering drivers with actionable insights for optimal car health and performance.
