@@ -1,0 +1,14 @@
+# Firebase cache
+.firebase/
+.firebaserc
+
+# Node modules (if you add any later)
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# System files
+.DS_Store
+Thumbs.db
