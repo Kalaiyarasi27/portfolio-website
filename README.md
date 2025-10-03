@@ -1,7 +1,5 @@
 # Kalaiyarasi N - Portfolio Website
 
-![Portfolio Preview](https://kalaiyarasi-portfolio.netlify.app/KALAIYARASI%20N.jpeg)
-
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a Full-Stack Developer. Built with pure HTML, CSS, JavaScript and powered by Firebase for the contact form functionality.
 
 ## 🌐 Live Demo
@@ -10,13 +8,13 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 ## ✨ Features
 
-- **📱 Fully Responsive** - Optimized for all devices (desktop, tablet, mobile)
-- **🎨 Modern UI/UX** - Clean, professional design with smooth animations
-- **⚡ Fast Performance** - Lightweight and optimized for speed
-- **📧 Contact Form** - Firebase-powered form with real-time database storage
-- **🎯 Smooth Scrolling** - Seamless navigation between sections
-- **🌙 Professional Design** - Minimalist and visually appealing interface
-- **🔒 Secure** - HTTPS enabled with SSL certificate
+- ** Fully Responsive** - Optimized for all devices (desktop, tablet, mobile)
+- ** Modern UI/UX** - Clean, professional design with smooth animations
+- ** Fast Performance** - Lightweight and optimized for speed
+- ** Contact Form** - Firebase-powered form with real-time database storage
+- ** Smooth Scrolling** - Seamless navigation between sections
+- ** Professional Design** - Minimalist and visually appealing interface
+- ** Secure** - HTTPS enabled with SSL certificate
 
 ## 🛠️ Tech Stack
 
@@ -47,8 +45,7 @@ portfolio-website/
 ├── index.html              # Main HTML file
 ├── style.css               # All styles and animations
 ├── script.js               # JavaScript functionality
-├── KALAIYARASI N.jpeg      # Profile picture
-├── (other project images)  # Project screenshots
+├── assests/    # Profile picture
 └── README.md               # Project documentation
 ```
 
