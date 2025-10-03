@@ -151,9 +151,6 @@ firebase deploy
 
 </div>  
 
----
-
-
 ### **Built with ❤️ by Kalaiyarasi N**
 
 > Dreamt, Designed, and Developed to transform ideas into impactful digital experiences.
