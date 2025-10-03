@@ -153,18 +153,8 @@ firebase deploy
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute it.
-
----
 
 ### **Built with ❤️ by Kalaiyarasi N**
 
-**“Dreamt, Designed, and Developed to transform ideas into impactful digital experiences.”**
+> Dreamt, Designed, and Developed to transform ideas into impactful digital experiences.
 
----
-
-
-
-Do you want me to also create a **LICENSE file (MIT)** so you can just drop it into your repo?
