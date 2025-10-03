@@ -148,4 +148,4 @@ firebase deploy
 
 ### **Built with ❤️ by Kalaiyarasi N**
 
-> Dreamt, Designed, and Developed to revolutionize vehicle monitoring through real-time data visualization, empowering drivers with actionable insights for optimal car health and performance.
+> Dreamt, Designed, and Developed.
