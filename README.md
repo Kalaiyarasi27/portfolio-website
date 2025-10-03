@@ -148,4 +148,4 @@ firebase deploy
 
 ### **Built with ❤️ by Kalaiyarasi N**
 
-> Dreamt, Designed, and Developed.
+> Dreamt, Designed, and Developed with passion to showcase my journey as a developer and to inspire future innovations.
