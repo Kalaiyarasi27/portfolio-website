@@ -1,4 +1,4 @@
-# ❤️🚀 Kalaiyarasi Nagarajan - Portfolio Website
+# Kalaiyarasi Nagarajan - Portfolio Website ❤️🚀
 
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a Full-Stack Developer. Built with pure HTML, CSS, JavaScript and powered by Firebase for the contact form functionality.
 
