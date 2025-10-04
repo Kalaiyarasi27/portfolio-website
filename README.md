@@ -151,7 +151,7 @@ firebase deploy
 
 </div>  
 
-### **Built with ❤️ by Kalaiyarasi N**
+### **Built with ❤️ by Kalaiyarasi Nagarajan**
 
 > Dreamt, Designed, and Developed with passion to showcase my skills, projects, and journey as a developer.
 
